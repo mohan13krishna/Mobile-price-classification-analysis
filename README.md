@@ -9,7 +9,7 @@
 
 This project implements and compares **6 different machine learning classification algorithms** to predict mobile phone price ranges. The analysis provides comprehensive performance evaluation with detailed visualizations to determine the most effective approach for multi-class classification.
 
-> **🎯 Key Achievement:** 96.5% Peak Accuracy achieved with Logistic Regression
+> **🎯 Key Achievement:** 96.5% Peak Accuracy achieved with Logistic Regression 
 
 ## 🎓 Academic Information
 
