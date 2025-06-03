@@ -12,7 +12,7 @@ This project implements and compares **6 different machine learning classificati
 > **🎯 Key Achievement:** 96.5% Peak Accuracy achieved with Logistic Regression 
 
 ## 🎓 Academic Information
-
+    
 **📚 Course:** Machine Learning (Semester 3-2)  
 **🏛️ Institution:** ACE Engineering College   
 **👩‍🏫 Faculty Guide:** Mrs. Swaroopa Mam, Assistant Professor  
