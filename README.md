@@ -1,11 +1,11 @@
 # 📱 Mobile Price Classification Analysis      
-     
+      
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)       
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)              
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)               
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)                                    
 [![Status](https://img.shields.io/badge/Status-Complete-success.svg)]()                                                  
                                         
-## 🚀 Project Overview                       
+## 🚀 Project Overview                        
       
 This project implements and compares **6 different machine learning classification algorithms** to predict mobile phone price ranges. The analysis provides comprehensive performance evaluation with detailed visualizations to determine the most effective approach for multi-class classification.
    
