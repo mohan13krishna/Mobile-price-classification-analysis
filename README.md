@@ -13,7 +13,7 @@ This project implements and compares **6 different machine learning classificati
 ## 🎓 Academic Information   
      
 **📚 Course:** Machine Learning (Semester 3-2)  
-**🏛️ Institution:** ACE Engineering College   
+**🏛️ Institution:** ACE Engineering College      
 **👩‍🏫 Faculty Guide:** Mrs. Swaroopa Mam, Assistant Professor  
 **👨‍💻 Student:** [Mohan Krishna Thalla] - GitHub: [mohan13krishna](https://github.com/mohan13krishna)
 
